@@ -1,3 +1,5 @@
+<img alt="qt-client logo" src="https://mirpm.github.io/icons/mirpm.png" width="200px"/>
+
 # mirpm
 
 *This repository only hosts general information about mirpm (see the Wiki) and Projects to keep as a todo list. Please see the [Getting Started](#tbc) guide for getting mirpm to work on your system.*
